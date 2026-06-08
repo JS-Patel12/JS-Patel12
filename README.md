@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jay Patel</h1>
 <h3 align="center">💻 C Programmer | Student | Future Software Developer</h3>
 
-<div align="center">
-  <img src="https://media.tenor.com/bGgsc5xLYiUAAAAC/coding-programming.gif" width="700">
-</div>
+<h1 align="center">JS-Patel12</h1>
+
+<p align="center">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="700">
+</p>
+
+<h3 align="center">
+  C Programmer • Problem Solver • Tech Explorer
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode" />
+</p>
 ---
 
 ## 🚀 About Me
