@@ -11,10 +11,6 @@
   C Programmer • Problem Solver • Tech Explorer
 </h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode" />
-</p>
-
 ## 🚀 About Me
 
 - 🌱 Currently learning **C Programming**
