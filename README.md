@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jay Patel</h1>
 <h3 align="center">💻 C Programmer | Student | Future Software Developer</h3>
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700">
-
+<div align="center">
+  <img src="https://media.tenor.com/bGgsc5xLYiUAAAAC/coding-programming.gif" width="700">
+</div>
 ---
 
 ## 🚀 About Me
