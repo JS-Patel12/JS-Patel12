@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode" />
 </p>
----
 
 ## 🚀 About Me
 
