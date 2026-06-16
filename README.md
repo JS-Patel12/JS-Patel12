@@ -40,8 +40,6 @@
 
 ![GitHub Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=JS-Patel12&theme=react-dark&hide_border=true&area=true)
 
-*(This graph updates automatically as you make contributions)*
-
 ---
 
 ## ☕ Developer Quote
