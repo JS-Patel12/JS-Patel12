@@ -41,7 +41,7 @@
 
 **Watch the snake eat my contributions!** 🐍
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/JS-Patel12/JS-Patel12/output/github-contribution-grid-snake.gif)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/JS-Patel12/JS-Patel12/output/github-contribution-grid-snake.svg)
 
 *(This GIF updates automatically with your latest contributions)*
 
