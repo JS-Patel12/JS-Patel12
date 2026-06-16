@@ -23,7 +23,6 @@
 ## 🛠️ Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -37,13 +36,14 @@
 
 ---
 
-## 📈 Contribution Graph
-
 ## 🐍 Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/JS-Patel12/JS-Patel12/output/github-contribution-grid-snake.svg)
+**Watch the snake eat my contributions!** 🐍
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/JS-Patel12/JS-Patel12/output/github-contribution-grid-snake.gif)
 
 *(This GIF updates automatically with your latest contributions)*
+
 ---
 
 ## ☕ Developer Quote
