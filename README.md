@@ -36,13 +36,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 My Contribution Graph
 
-**Watch the snake eat my contributions!** 🐍
+![GitHub Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=JS-Patel12&theme=react-dark&hide_border=true&area=true)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/JS-Patel12/JS-Patel12/output/github-contribution-grid-snake.gif)
-
-*(This GIF updates automatically with your latest contributions)*
+*(This graph updates automatically as you make contributions)*
 
 ---
 
