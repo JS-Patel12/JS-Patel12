@@ -39,12 +39,11 @@
 
 ## 📈 Contribution Graph
 
-**Watch the snake eat my contributions!** 🐍
+## 🐍 Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/JS-Patel12/JS-Patel12/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/JS-Patel12/JS-Patel12/output/github-contribution-grid-snake.gif)
 
 *(This GIF updates automatically with your latest contributions)*
-
 ---
 
 ## ☕ Developer Quote
