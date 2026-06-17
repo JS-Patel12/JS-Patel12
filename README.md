@@ -50,7 +50,7 @@
 
 ### 👀 Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=JS-Patel12&color=000000&style=for-the-badge&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=JS-Patel12&color=121826&style=for-the-badge&label=Profile+Views)
 
 ---
 
